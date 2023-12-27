@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brendan Chia</h1>
 <h3 align="center">Data Engineering Student from Malaysia</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pegasus762&label=Profile%20views&color=0e75b6&style=flat" alt="pegasus762" /> </p>
 
