@@ -11,6 +11,13 @@
 - 📫 How to reach me **yan04@graduate.utm.my**
 - [E-PORTFOLIO](http://127.0.0.1:5500/index.html#)
 
+# Education
+SMK SERI PERLING (2017-2021)
+Univeriti Teknologi Malaysia (2022-Current)
+
+# Position 
+Special Task Unit (UTM X Hackathon 2024)
+Activity Unit     (Diabolo Club - Peterana)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ brendan-chia-8a0a9329a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ brendan-chia-8a0a9329a" height="30" width="40" /></a>
