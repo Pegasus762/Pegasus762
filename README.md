@@ -12,8 +12,8 @@
 - [E-PORTFOLIO](http://127.0.0.1:5500/index.html#)
 
 # Education
-SMK SERI PERLING (2017-2021)
-Univeriti Teknologi Malaysia (2022-Current)
+- SMK SERI PERLING (2017-2021)
+- Univeriti Teknologi Malaysia (2022-Current)
 
 # Position 
 Special Task Unit (UTM X Hackathon 2024)
