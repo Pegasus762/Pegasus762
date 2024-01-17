@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Brendan Chia</h1>
-<h3 align="center">Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pegasus762&label=Profile%20views&color=0e75b6&style=flat" alt="pegasus762" /> </p>
@@ -33,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pegasus762&show_icons=true&locale=en" alt="pegasus762" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pegasus762&" alt="pegasus762" /></p>
+<p><img src=""C:\Users\User\Downloads\IMG-20231214-WA0074.jpg"</p>
