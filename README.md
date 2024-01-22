@@ -9,7 +9,15 @@
 
 - 📫 How to reach me **yan04@graduate.utm.my**
 - [E-PORTFOLIO](
-
+## Education Background
+- SMK Seri Perling (2017-2021)
+- Univeriti Teknologi Malaysia (2022-Current)
+## Position
+- Special Task Unit (UTM X Hackathon 2024)
+- Activity Unit (Diabolo Club - Peterana)
+## Skills
+- Computer Skills (Microsoft Word, Microsoft Excel, Microsoft Powerpoint)
+Project Management (Planning, Budgeting, Data Analytics)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pegasus762&show_icons=true&locale=en&layout=compact" alt="pegasus762" /></p>
 
