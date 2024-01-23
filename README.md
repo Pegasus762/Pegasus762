@@ -8,7 +8,7 @@
 - 💬 Ask me about **my career development path**
 
 - 📫 How to reach me **yan04@graduate.utm.my**
-- [E-PORTFOLIO](https://pegasus762.github.io/index.htm)
+- [E-PORTFOLIO](https://pegasus762.github.io/index.html)
 ## Education Background
 - SMK Seri Perling (2017-2021)
 - Univeriti Teknologi Malaysia (2022-Current)
