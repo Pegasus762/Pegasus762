@@ -14,7 +14,8 @@
 - Univeriti Teknologi Malaysia (2022-Current)
 ## Position
 - Special Task Unit (UTM X Hackathon 2024)
-- Activity Unit (Diabolo Club - Peterana)
+- Activity Unit (AiRo'24 - AI & Robotics Edu Challenge) 
+- Activity Unit (UTM Diabolo Club - Peterana)
 ## Skills
 - Computer Skills (Microsoft Word, Microsoft Excel, Microsoft Powerpoint)
 Project Management (Planning, Budgeting, Data Analytics)
